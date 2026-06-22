@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Clockstop
+GenericName=Focus Session Tray
+Comment=Start focus sessions and lock on sustained Wayland toplevel drift
+Exec=clockstop
+Terminal=false
+Categories=Utility;Office;
+StartupNotify=false
